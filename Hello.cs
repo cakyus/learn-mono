@@ -1,11 +1,11 @@
 using System;
 
-namespace FirstMono {
-	
+namespace LearnMono {
+
 	class Hello {
-	
+
 		public static void Main(string[] args) {
-		
+
 			Console.WriteLine("Hello World");
 		}
 	}
